@@ -1,1 +1,1 @@
-* [pcAddStorybook](pcAddStorybook/index.html)
+* [pcAddStorybook](pcAddStorybook)
