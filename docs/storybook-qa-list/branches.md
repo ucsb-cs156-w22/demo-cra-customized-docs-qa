@@ -1,2 +1,1 @@
-* [pcAddStorybook](pcAddStorybook)
-* [pcAddStorybook](pcAddStorybook)
+* [pcAddStorybook](../storybook-qa/pcAddStorybook/index.html)
