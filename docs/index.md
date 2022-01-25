@@ -2,8 +2,8 @@
 ---
 
 * Owner/Organization: {{site.owner}}
-* Source Repo: <https://github.com/ucsb-cs156-w22/{{site.repo_name}}>
-* Production Docs: <https://github.com/ucsb-cs156-w22/{{site.repo_name}}-docs>
+* Source Repo: <https://github.com/{{site.repo_name}}>
+* Production Docs: <https://github.com/{{site.repo_name}}-docs>
 
 
 # Branches
