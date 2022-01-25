@@ -1,3 +1,5 @@
 ---
-name: bar
+name: foo
 ---
+
+Foo!
