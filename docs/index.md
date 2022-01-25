@@ -11,7 +11,7 @@
 # Branch collection
 
 {% for b in site.branches %}
-* [{{ b.name }}](/storybook-qa/{{b.name}})
+* [{{ b.name }}](storybook-qa/{{b.name}})
 {% endfor %}
 
 
