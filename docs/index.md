@@ -21,7 +21,7 @@
 <th>PR</th>
 <th>Storybook</th>
 </tr>
-<thead>
+</thead>
 <tbody>
 {% for b in site.branches %}
 <tr>
