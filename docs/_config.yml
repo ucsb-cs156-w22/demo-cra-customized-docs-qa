@@ -20,5 +20,6 @@ collections:
     permalink: /branches/:path/
 
 repo_name: "This-should-be-overridden-by-github-actions-script"
-repo_name: ucsb-cs156-w22/demo-cra-customized
+repo: ucsb-cs156-w22/demo-cra-customized
 owner: ucsb-cs156-w22
+repo_name: demo-cra-customized
