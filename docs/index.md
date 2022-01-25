@@ -1,8 +1,7 @@
 ---
 ---
 
-# QA Site for Documentation 
-
+* Owner/Organization: {{site.owner}}
 * Source Repo: <https://github.com/ucsb-cs156-w22/{{site.repo_name}}>
 * Production Docs: <https://github.com/ucsb-cs156-w22/{{site.repo_name}}-docs>
 
