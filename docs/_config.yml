@@ -1,0 +1,5 @@
+collections:
+  branches:
+    output: true
+    permalink: /storybook/branches/:path/
+    

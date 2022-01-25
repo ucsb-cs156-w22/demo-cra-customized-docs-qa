@@ -4,3 +4,7 @@
 * Production Docs: <https://github.com/ucsb-cs156-w22/demo-cra-customized-docs>
 
 * [Storybook QA Branches](storybook-qa-list/)
+
+{% for b in site.branches %}
+* {{ b.name }}
+{% endfor %}
